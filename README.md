@@ -12,5 +12,9 @@
 
 # Time
 
-| [<img loading="lazy" src="https://media.licdn.com/dms/image/C4E03AQHInD4zW0vXsg/profile-displayphoto-shrink_200_200/0/1602694493267?e=1714608000&v=beta&t=VFZrA3IXH6o-D_chQ4DxrnjLPV72KzIhGaWLsGVbntk" width=115><br><sub>Leo Santander Nycz</sub>](https://github.com/SantandeNycz) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/gabrielle-ribeiro) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/522931?v=4" width=115><br><sub>Rodrigo Caneppele</sub>](https://github.com/rcaneppele) |
-| :---: | :---: |
+<div>
+<a href="https://github.com/SantanderNycz">
+<img loading="lazy" height="115em" width=115 src="https://media.licdn.com/dms/image/C4E03AQHInD4zW0vXsg/profile-displayphoto-shrink_800_800/0/1602694493267?e=1714608000&v=beta&t=F_lbyxnikQAS8dri01VmZI9b_94qvZnjZCd7NgVmQho"/>
+<p>Léo Santander</p>
+  
+</div>
